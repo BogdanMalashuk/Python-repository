@@ -1,2 +1,2 @@
 # Python-repository
-python repository from homework
+python repository for homework
