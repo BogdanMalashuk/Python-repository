@@ -1,2 +1,2 @@
 # Python-repository
-python repository for homework
+this is my first git rep
